@@ -12,9 +12,9 @@ This project focuses on sentiment analysis using natural language processing (NL
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/sentiment-analysis.git`
+1. Clone the repository: `git clone https://github.com/pill2x/sentiment-analysis.git`
 2. Install the required packages: `pip install -r requirements.txt`
-3. Run the sentiment analysis script: `python sentiment_analysis.py`
+3. Run the sentiment analysis script: `sentiment_analysis.py`
 
 ## Usage
 
